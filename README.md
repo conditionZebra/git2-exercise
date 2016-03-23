@@ -1,3 +1,4 @@
+CsZ
 # Exercises
 The folowing exercises will contain example code in bash. Available trough __git bash__ on windows if you [installed git](https://git-scm.com/downloads). 
 Though perform the "git ..." commands in e terminal as writen to learn whats intended about git.
